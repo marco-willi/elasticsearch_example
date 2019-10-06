@@ -18,7 +18,7 @@ chmod +x install_docker.sh
 
 ```shell
 chmod +x download_data.sh
-./donwload_data.sh
+./download_data.sh
 ```
    
 
